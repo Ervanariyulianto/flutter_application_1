@@ -1,7 +1,10 @@
 import 'package:shared_preferences/shared_preferences.dart';
 
+// ignore: constant_identifier_names
 const String TOKEN = "token";
+// ignore: constant_identifier_names
 const String USER_ID = "userID";
+// ignore: constant_identifier_names
 const String USERNAME = "username";
 
 class UserInfo {
